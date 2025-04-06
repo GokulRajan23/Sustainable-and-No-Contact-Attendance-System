@@ -12,8 +12,6 @@ A contactless attendance system that combines facial recognition with RFID-based
 - Designed a MySQL backend to manage attendance records.
 - Enabled cloud storage for remote and real-time tracking of attendance data.
 
-## Screenshots
-> (Add screenshots of the working system or UI here, for example: setup, ESP32 module, database view, etc.)
 
 ## Folder Structure
 ```
@@ -51,7 +49,7 @@ python cloud_storage/sync_to_cloud.py
 
 ## Notes
 - The ESP32 camera module is used for real-time facial capture.
-- Cloud service used: *(mention Firebase / Google Sheets / AWS etc.)*
+- Cloud service used: Google Cloud Platform
 - This project was part of an initiative to design hygienic, non-contact solutions for educational institutions.
 
 ## Author
