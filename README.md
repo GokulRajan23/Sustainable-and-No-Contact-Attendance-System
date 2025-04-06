@@ -22,7 +22,6 @@ A contactless attendance system that combines facial recognition with RFID-based
 ├── backend/                  # MySQL database scripts
 ├── cloud_storage/            # Scripts/config for cloud sync
 ├── images/                   # Screenshots and demo images
-├── docs/                     # Additional documents or diagrams
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project readme file
 ```
